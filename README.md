@@ -3,8 +3,6 @@
 # 💫 About Me:
 🎓 Computer Science student at Paragon International University<br>   💻 Interested in Software Development, Backend Engineering, and AI/ML<br>   🚀 Building projects with Java, Spring Boot, Python, Laravel, and PostgreSQL<br>   🧠 Currently improving my skills in backend development and machine learning<br>   🌱 Always learning, experimenting, and building new projects<br>   🎯 Looking for opportunities to grow as a Software Engineer / AI Engineer<br>
 
-</td> <td width="30%" align="center"> <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Senghab&backgroundColor=0f0c29" width="170" alt="mascot"/> </td> </tr> </table> <br/>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senghabcheng/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chengsenghab4@gmail.com)
