@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/32040823/ReadMe.md)
 # 💫 About Me:
 👨‍💻 About Me<br><br>   🎓 Computer Science student at Paragon International University<br>   💻 Interested in Software Development, Backend Engineering, and AI/ML<br>   🚀 Building projects with Java, Spring Boot, Python, Laravel, and PostgreSQL<br>   🧠 Currently improving my skills in backend development and machine learning<br>   🌱 Always learning, experimenting, and building new projects<br>   🎯 Looking for opportunities to grow as a Software Engineer / AI Engineer<br>
 
